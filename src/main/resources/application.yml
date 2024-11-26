@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://matuzalembatista:Matuza1995@cluster0.otw9c.mongodb.net/
+      database: relacionamentos
